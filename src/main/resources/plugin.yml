@@ -1,0 +1,7 @@
+name: Qwqgive
+version: '${project.version}'
+main: xyz.lgls.qwqgive.Qwqgive
+api-version: 1.20
+commands:
+  qwq:
+    description: Gives the player a special item.
